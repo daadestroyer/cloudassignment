@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
  <head>
@@ -36,20 +37,17 @@ body {
 
 
 <!-- 
-<?php
-
-?>
  -->
  
  <div class="topnav">
-  <a class="active" href="index.php">Home</a>
+  <a class="active" href="https://cloundassignment.herokuapp.com/index.php">Home</a>
   <a href="https://cloundassignment.herokuapp.com/page1.php">Page1</a>
   <a href="https://cloundassignment.herokuapp.com/page2.php">Page2</a>
   <a href="https://cloundassignment.herokuapp.com/page3.php">Page3</a>
-   
-  <div style="margin-top:100px">
+</div>
+ 
+ <div style="margin-top:100px">
   <center><h1>This is page 1</h1></center>
  </div>
-</div>
 </body>
 </html>

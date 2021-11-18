@@ -43,9 +43,9 @@ body {
  
  <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="page1.php">Page1</a>
-  <a href="page2.php">Page2</a>
-  <a href="page3.php">Page3</a>
+  <a href="https://cloundassignment.herokuapp.com/page1.php">Page1</a>
+  <a href="https://cloundassignment.herokuapp.com/page2.php">Page2</a>
+  <a href="https://cloundassignment.herokuapp.com/page3.php">Page3</a>
 </div>
 </body>
 </html>

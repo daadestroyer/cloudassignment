@@ -49,7 +49,7 @@ body {
 </div>
  
  <div style="margin-top:100px">
-  <center>This is home page</center>
+  <center><h1>This is home pag</h1>e</center>
  </div>
 </body>
 </html>

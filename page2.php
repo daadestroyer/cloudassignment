@@ -47,5 +47,9 @@ body {
   <a href="https://cloundassignment.herokuapp.com/page2.php">Page2</a>
   <a href="https://cloundassignment.herokuapp.com/page3.php">Page3</a>
 </div>
+ 
+ <div style="margin-top:100px">
+  <center><h1>This is home page 2</h1></center>
+ </div>
 </body>
 </html>

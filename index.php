@@ -34,7 +34,7 @@ body {
  </head>
 <body>
 
-<h1>My first PHP page</h1>
+
 <!-- 
 <?php
 
@@ -43,9 +43,9 @@ body {
  
  <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="page1.php">Page1</a>
+  <a href="page2.php">Page2</a>
+  <a href="page3.php">Page3</a>
 </div>
 </body>
 </html>
